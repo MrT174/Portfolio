@@ -1,0 +1,140 @@
+
+h1{
+  display:inline;
+  display: inline-block;
+    margin-left: 309px;
+}
+#initial_wrapper{
+    background: linear-gradient(to left, white, #f3f3f3);
+}
+#wrapper{
+  background-color: #6f5964;
+  padding: 30px;
+  height: 1230px;
+
+}
+
+.gradient1{
+
+  background: linear-gradient(to right, white, #e0d3df);
+    height: 300px;
+    margin: 1px 1px 1px 173px;
+}
+.gradient2{
+  background: linear-gradient(to right, white, #e0d3df);
+  height: 784px;
+  margin: -3px 1px 3px 1px;
+  width: 406px;
+  position: relative;
+  top: -363px;
+  padding: 1px;
+
+}
+.gradient3{
+  background: linear-gradient(to right, white, #e0d3df);
+  height: 785px;
+  width: 406px;
+  position: relative;
+  display: inline-block;
+  margin-left: 441px;
+  bottom: 1152px;
+  padding: 1px;
+
+
+}
+
+.gradient4{
+  background: linear-gradient(to right, white, #e0d3df);
+      height: 785px;
+      width: 361px;
+      position: relative;
+      display: inline-block;
+      margin-left: 883px;
+      bottom: 1939px;
+      padding: 1px;
+
+
+}
+.display_inlineblock{
+display: inline-block;
+
+}
+.inner_image{
+  bottom: 219px;
+  width: 406px;
+
+}
+/*#inner_image1{
+  display: inline;
+  position: relative;
+  bottom: 219px;
+  width: 406px;
+}*/
+#about_image{
+  width: 590px;
+}
+.circle1{
+  width: 50px;
+  height: 50px;
+  padding-left: 19px;
+}
+.circle2{
+  width: 50px;
+  height: 50px;
+  padding-left: 19px;
+  position: relative;
+  top: -19px;
+}
+.circle3{
+  width: 50px;
+  height: 50px;
+  padding-left: 16px;
+  position: relative;
+  top: 6px;
+}
+
+/*#inner_image2{
+  display: inline-block;
+  margin-left: 0px;
+  height: 211px;
+  position: relative;
+  bottom: 220px;
+  width: 406px;
+}*/
+#inner_image3{
+  display: inline-block;
+  width: 406px;
+  position: relative;
+  bottom: 16px;
+}
+#inner_image4{
+  display: inline-block;
+  width: 362px;
+  position: relative;
+  bottom: -3px;
+  height: 202px;
+}
+#inner_image5{
+  display: inline-block;
+      width: 362px;
+      position: relative;
+      bottom: 11px;
+      height: 48px;
+}
+#section1{
+  display: inline-block;
+  margin-left: 655px;
+  position: relative;
+  bottom: 410px;
+  height: 404px;
+}
+#inner_image6{
+  bottom: 219px;
+  width: 363px;
+  height: 74px;
+
+}
+#main_image1{
+  display: inline-block;
+  width: 619px;
+}
